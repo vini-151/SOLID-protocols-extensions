@@ -1,4 +1,4 @@
-//L - Liskov Substitution Principle
+//I - Interface Segregation Principle 
 //Fonte:https://www.alura.com.br/artigos/solid?srsltid=AfmBOoqZUdYE_hILm9Bm1hQATItgTYeMhnCbxOv0VyY_F7NSsujtLLOW
 
 //Problema: Num sistema de gerenciamento de funcionários, temos um protocolo que representa o funcionário e classes que conformam com o protocolo
